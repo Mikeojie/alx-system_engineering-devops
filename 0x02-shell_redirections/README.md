@@ -1,1 +1,1 @@
-each script contains the commands to each task
+each script contains commands to execute each tasks
